@@ -1,2 +1,2 @@
 # Signals
-Signals is a module that provides developers with an easy way to create and manage signals.
+Signals is a module that provides an easy way to create and manage Roblox signals like Remotes and Bindables, entirely in Luau.
